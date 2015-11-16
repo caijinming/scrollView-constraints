@@ -6,6 +6,14 @@
 //  Copyright © 2015年 sjq. All rights reserved.
 //
 
+
+/**
+ 几个供学习滚动视图的链接
+ http://www.cocoachina.com/ios/20141118/10242.html
+ http://www.cocoachina.com/ios/20141011/9871.html
+ http://tech.glowing.com/cn/practice-in-uiscrollview/
+ http://blog.csdn.net/h1101723183/article/details/41895479
+ */
 #import "ViewController.h"
 #define ScreenWidth [UIScreen mainScreen].bounds.size.width
 #define ScreenHeight [UIScreen mainScreen].bounds.size.height

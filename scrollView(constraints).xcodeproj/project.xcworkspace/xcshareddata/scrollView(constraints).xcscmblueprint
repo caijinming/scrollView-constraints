@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CCE2A2E5C4CA69A78B3F308BE18631F188CC46D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B77DF65220F0A214DC34429F7FED6624A0297527" : 0,
+    "CCE2A2E5C4CA69A78B3F308BE18631F188CC46D8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1D3DA1C-C24C-4E67-9BB2-E3D726461CBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B77DF65220F0A214DC34429F7FED6624A0297527" : "",
+    "CCE2A2E5C4CA69A78B3F308BE18631F188CC46D8" : "scrollView(constraints)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "scrollView(constraints)",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "scrollView(constraints).xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com\/caijinming\/swift-01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B77DF65220F0A214DC34429F7FED6624A0297527"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/caijinming\/scrollView-constraints.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CCE2A2E5C4CA69A78B3F308BE18631F188CC46D8"
+    }
+  ]
+}
